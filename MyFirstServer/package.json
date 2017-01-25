@@ -1,0 +1,19 @@
+{
+  "name": "memcachedHometask",
+  "version": "1.0.0",
+  "description": "hometask",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/rijavskii.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/rijavskii/issues"
+  },
+  "homepage": "https://github.com/github.com/rijavskii#readme"
+}
